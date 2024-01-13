@@ -1,5 +1,6 @@
 # ProjectInstacart
 Instacart is an innovative online grocery store that has been operating through an app. To enhance their business's growth and improve their sales patterns, they are looking for an in-depth analysis of their data. They require an exploratory analysis of their data to derive insights and form strategies for better customer segmentation. Instacart stakeholders are keen to understand the variety of customers in their database and their purchasing behaviours. With this information, Instacart aims to launch a targeted marketing strategy that can meet the customer's needs and satisfaction.
+
 **Key Questions**
 
 What are the busiest days of the week and hours of the day?
