@@ -1,6 +1,7 @@
 # ProjectInstacart
 Instacart is an innovative online grocery store that has been operating through an app. To enhance their business's growth and improve their sales patterns, they are looking for an in-depth analysis of their data. They require an exploratory analysis of their data to derive insights and form strategies for better customer segmentation. Instacart stakeholders are keen to understand the variety of customers in their database and their purchasing behaviours. With this information, Instacart aims to launch a targeted marketing strategy that can meet the customer's needs and satisfaction.
-Key Questions
+**Key Questions**
+
 What are the busiest days of the week and hours of the day?
 Are there particular times of the day when people spend the most money?
 Are there simpler price range groupings to help direct marketing efforts?
@@ -17,6 +18,7 @@ Data
 (Data files not uploaded to GitHub due to size.)
 
 It is worth noting that Instacart is an actual company that has made their data publicly available. However, for the purposes of this project, the data sets provided were specifically created for this project by Career Foundry. The fabricated data sets included various data points that were relevant to the scope of this project.
+
 Customers
 Departments
 Orders
@@ -33,6 +35,7 @@ Numpy: for mathematical equations
 SciPy: for mathematical equations
 ChatGPT: for assisting in creating code that allowed me to normalize data and format charts in the ways I wanted them to appear.
 Folders
+
 The project files are divided between the following folders:
 
 Project Management: Project Brief
