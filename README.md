@@ -24,6 +24,7 @@ Is there a connection between age and family status in terms of ordering habits?
 What different classifications does the demographic information suggest?
 
 What differences can you find in the ordering habits of different customer profiles?
+
 **Data**
 
 (Data files not uploaded to GitHub due to size.)
